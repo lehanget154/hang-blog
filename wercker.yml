@@ -2,7 +2,7 @@ box: debian
 build:
   steps:
     - arjen/hugo-build@2.10.1:
-        theme: beautifulhugo
+        theme: hugo-theme-diary
         flags: --buildDrafts=false
 deploy:
   steps:
