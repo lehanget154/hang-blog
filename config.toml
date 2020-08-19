@@ -1,8 +1,8 @@
 baseURL = "https://lehanget154.github.io/"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
-title = "Hang blog"
-copyright = "This is a customized copyright."
+title = "Chloe's blog"
+copyright = "Copyright"
 theme = "diary"
 # googleAnalytics = "UA-123-45"
 
@@ -19,13 +19,13 @@ theme = "diary"
     tabWidth = 4
 
 [params]
-subtitle = "Themed by Diary."
+subtitle = ""
 enableGitalk = true
 
 # Twitter Card and Open Graph settings
 enableOpenGraph = true
 enableTwitterCards = true
-title = "My Blog" # will set 'og:site_name'
+title = "Chloe's blog" # will set 'og:site_name'
 description = "My HomePage Description"  # will set 'og:description'
 
 [params.gitalk]
