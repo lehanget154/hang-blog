@@ -1,6 +1,6 @@
 ---
 title: "TƯ DUY XỬ KÝ LUẬT"
-date: 2020-10-15T08:49:38+05:30
+date: 2020-10-15T08:49:38
 description: Tổng hợp note khóa học C&B của Springo
 tags: tuduyluat
 ---
