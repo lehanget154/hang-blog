@@ -1,9 +1,11 @@
 box: debian
 build:
   steps:
-    - arjen/hugo-build@2.10.1:
-        theme: hugo-theme-diary
+    - arjen/hugo-build:
+        version: "0.75.1"
         flags: --buildDrafts=false
+        #theme: LoveIt
+        #config: config.toml
 deploy:
   steps:
     - install-packages:
@@ -14,3 +16,4 @@ deploy:
         # different repository (change baseUrl in config.toml), the default is gh-page in same repo
         repo: lehanget154/lehanget154.github.io
         branch: master
+        
