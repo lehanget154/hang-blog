@@ -47,7 +47,7 @@ Luật >> Nghị định >> Thông tư >> Công văn hướng dẫn >> Bản s�
 - Hiệu lực thi hành >> Chương cuối >> Chính thức hiệu lực khi nào?
 - Điều khoản chuyển tiếp >> nằm sau hiệu lực thi hành >> Phỉa làm gì?
 - Nội dung chính >> Đọc tiêu đề chương trước
-- LƯU Ý: 
+>> LƯU Ý: 
 + Đọc phần Trích yếu VB >> biết VB được sửa đổi hay ban hành lần 1
 + Có những đầu mục Luật LĐ không quy định trực tiếp nhưng các VB pháp quy khác có quy định thì có thể tham chiếu sáng VB khác.
 
