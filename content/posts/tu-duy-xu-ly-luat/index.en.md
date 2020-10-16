@@ -80,6 +80,7 @@ b. BV của doanh nghiệp
 - Hiến pháp, Luật, Nghị quyết của Quốc hội.
 - Nghị định của chính phủ.
 - Thông tư của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ.
+
 => Đọc theo hệ thống, trình tự, cao tới thấp:
 Luật => Nghị định => Thông tư => Công văn hướng dẫn => Bản sửa đổi, bổ sung (từ cũ tới mới)
 => Đọc phần căn cứ ban hành (phần đầu VB => xác định banh hành trên cơ sở nào, liên hệ gì)
@@ -99,7 +100,9 @@ Luật => Nghị định => Thông tư => Công văn hướng dẫn => Bản s�
 - Đối tượng áp dụng => Điều 2 => Ai phải áp dụng VB này?
 - Hiệu lực thi hành => Chương cuối => Chính thức hiệu lực khi nào?
 - Điều khoản chuyển tiếp => nằm sau hiệu lực thi hành => Phỉa làm gì?
-- Nội dung chính => Đọc tiêu đề chương trước
+- Nội dung chính 
+=> Đọc tiêu đề chương trước
+
 => LƯU Ý: 
 + Đọc phần Trích yếu VB => biết VB được sửa đổi hay ban hành lần 1
 + Có những đầu mục Luật LĐ không quy định trực tiếp nhưng các VB pháp quy khác có quy định thì có thể tham chiếu sáng VB khác.
