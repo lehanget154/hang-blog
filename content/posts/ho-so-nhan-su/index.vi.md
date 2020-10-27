@@ -1,3 +1,63 @@
+---
+title: "HỒ SƠ NHÂN SỰ"  
+subtitle: ""
+date: 2020-10-15T08:49:38+07:00
+lastmod: 2020-10-15T08:49:38+07:00
+draft: false
+author: "Chloe"
+authorLink: "https://lehanget154.github.io"
+description: "Tổng hợp note khóa học C&B của Springo"
+license: ""
+images: []
+
+tags: ["tuduyluat"]
+featuredImage: ""
+featuredImagePreview: ""
+
+hiddenFromHomePage: false
+hiddenFromSearch: false
+twemoji: true
+lightgallery: true
+ruby: false
+fraction: true
+fontawesome: true
+linkToMarkdown: false
+rssFullText: false
+
+toc:
+  enable: true
+  auto: true
+code:
+  copy: true
+  # ...
+math:
+  enable: true
+  # ...
+mapbox:
+  accessToken: ""
+  # ...
+share:
+  enable: true
+  # ...
+comment:
+  enable: true
+  # ...
+library:
+  css:
+    # someCSS = "some.css"
+    # located in "assets/"
+    # Or
+    # someCSS = "https://cdn.example.com/some.css"
+  js:
+    # someJS = "some.js"
+    # located in "assets/"
+    # Or
+    # someJS = "https://cdn.example.com/some.js"
+seo:
+  images: []
+  # ...
+---
+
 # ĐẦU VÀO
 1. Sơ yếu lý lịch (có xác nhận của địa phương): ảnh giáp lai, dấu đỏ, hiệu lực > 1 năm.
 2. Hộ khẩu, giấy khai sinh, CMND (bản công chứng).
