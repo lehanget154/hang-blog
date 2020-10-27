@@ -1,8 +1,8 @@
 ---
 title: "HỒ SƠ NHÂN SỰ"  
 subtitle: ""
-date: 2020-10-15T08:49:38+07:00
-lastmod: 2020-10-15T08:49:38+07:00
+date: 2020-10-27
+lastmod: 2020-10-27
 draft: false
 author: "Chloe"
 authorLink: "https://lehanget154.github.io"
@@ -65,7 +65,7 @@ seo:
 4. Bằng cấp (bản công chứng).
 5. Giấy tờ khác theo yêu cầu nội bộ (thông tin cá nhân).
 
-## ĐANG LÀM VIỆC
+# ĐANG LÀM VIỆC
 1. Hợp đồng thử việc.
 2. Quyết định bổ nhiệm: bắt buộc phải có đối với các vị trí liên quan đến ngân hàng, chịu trách nhiệm trước pháp luật như giám đốc, ban lãnh đạo, trưởng bộ phận, kế toán.
 3. Phụ lục: khi thay đổi lương, thay đổi chức vụ.
@@ -77,6 +77,6 @@ seo:
 9. Thủ tục, giấy tờ của người nước ngoài: Giấy phép lao động, chứng chỉ hành nghề.
 10. Các ủy quyền quyết toán thuế của các lao động quyết toán thuế tại doanh nghiệp.
 
-### ĐẦU RA
+# ĐẦU RA
 1. Quyết định chấm dứt HDLD.
 2. Thanh lý hợp đồng: có thể có hoặc không >> Đảm bảo 2 bên không còn liên hệ gì với nhau.
